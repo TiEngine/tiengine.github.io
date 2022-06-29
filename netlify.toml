@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "https://tistudio.netlify.app/*"
+  to = "https://tis.ac.cn/:splat"
+  force = true
